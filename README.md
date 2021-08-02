@@ -3,13 +3,8 @@
   <a href="https://telegram.me/tharamaanateambot"><img src="https://telegra.ph/file/77a78074d8b446fd33ade.jpg" alt="Tharamaana Groups" width="300"></a>
  <br>
 <p>
-  <h1 align="center">
-
-  <a href="https://telegram.me/tharamaanateambot"><img src="https://telegra.ph/file/13fbb7bd6cadb87f67729.mp4" width="300"></a>
- <br>
-<p>
-  <a href="https://www.codefactor.io/repository/github/cachecleanerjeet/musicder">
-    <img src="https://www.codefactor.io/repository/github/cachecleanerjeet/musicder/badge"
+  <a href="https://telegram.me/tendkotta">
+    <img src="https://telegra.ph/file/2be71c66740e18fd4f044.jpg"
          alt="Codefactor">
   </a>
     <a href="https://app.fossa.com/projects/git%2Bgithub.com%2Fcachecleanerjeet%2FMusicder?ref=badge_shield">
