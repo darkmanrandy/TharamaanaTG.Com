@@ -1,6 +1,6 @@
 <h1 align="center">
 
-  <a href="https://github.com/cachecleanerjeet/Musicder"><img src="https://telegra.ph/file/d1ca7db1f19ee64ad150c.png" alt="Musicder" width="300"></a>
+  <a href="https://telegram.me/tharamaanateambot"><img src="https://telegra.ph/file/77a78074d8b446fd33ade.jpg" alt="Tharamaana Groups" width="300"></a>
  <br>
 <p>
   <a href="https://www.codefactor.io/repository/github/cachecleanerjeet/musicder">
