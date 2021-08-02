@@ -5,7 +5,7 @@
 <p>
   <h1 align="center">
 
-  <a href="https://telegram.me/tharamaanateambot"><img src="https://telegra.ph/file/13fbb7bd6cadb87f67729.mp4" alt="Tharamaana Groups" width="300"></a>
+  <a href="https://telegram.me/tharamaanateambot"><img src="https://telegra.ph/file/13fbb7bd6cadb87f67729.mp4" width="300"></a>
  <br>
 <p>
   <a href="https://www.codefactor.io/repository/github/cachecleanerjeet/musicder">
