@@ -1,5 +1,3 @@
-<h1 align="center">
-<code>List Of Our Channels and Bots</code>
 
 <h1 align="center">
 
