@@ -30,8 +30,8 @@
 *This project has been swifted to React. Old musicder will be available here 👇*<br>
 <code>https://github.com/cachecleanerjeet/musicder-native</code>
 
-### Read This :
-*This is not the full source code which is used in <code><a href="https://telegram.me/tharamaanateambot"><img src="https://telegra.ph/file/13fbb7bd6cadb87f67729.mp4" alt="Tharamaana Groups" width="300"></a></code>. Use <code>https://musicder.net</code> to download songs with metadata.*<br>
+<a href="https://telegram.me/tharamaanateambot"><img src="https://telegra.ph/file/13fbb7bd6cadb87f67729.mp4" alt="Tharamaana Groups" width="300"></a>
+<br>
 
 ### Features :
 *1. Free.*<br>
