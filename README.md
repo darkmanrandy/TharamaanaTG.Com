@@ -1,5 +1,5 @@
 <h1 align="center">
-## List Of Our Channels and Bots
+`List Of Our Channels and Bots`
 
   <a href="https://telegram.me/tharamaanateambot"><img src="https://telegra.ph/file/77a78074d8b446fd33ade.jpg" alt="Tharamaana Groups" width="300"></a>
  <br>
