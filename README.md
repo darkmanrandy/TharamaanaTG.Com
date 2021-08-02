@@ -1,6 +1,8 @@
 <h1 align="center">
 <code>List Of Our Channels and Bots</code>
 
+<h1 align="center">
+
   <a href="https://telegram.me/tharamaanateambot"><img src="https://telegra.ph/file/77a78074d8b446fd33ade.jpg" alt="Tharamaana Groups" width="300"></a>
  <br>
 <p>
